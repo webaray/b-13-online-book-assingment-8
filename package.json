@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@better-auth/mongo-adapter": "^1.6.9",
     "@tailwindcss/postcss": "latest",
     "animate.css": "latest",
-    "better-auth": "latest",
+    "better-auth": "^1.6.9",
     "daisyui": "latest",
-    "mongodb": "latest",
+    "mongodb": "^7.2.0",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
