@@ -1,0 +1,111 @@
+
+   [
+    {
+      "id": 1,
+      "title": "The Silent Library",
+      "author": "Emily Carter",
+      "description": "A mystery story about a hidden library full of forgotten secrets and brave discoveries.",
+      "category": "Story",
+      "availableQuantity": 8,
+      "imageUrl": "https://i.ibb.co.com/kgmx5QqF/image7.png"
+    },
+    {
+      "id": 2,
+      "title": "Next.js Mastery",
+      "author": "David Morgan",
+      "description": "A practical guide to building modern web applications using Next.js and clean architecture.",
+      "category": "Tech",
+      "availableQuantity": 5,
+      "imageUrl": "https://i.ibb.co.com/kgmx5QqF/image7.png"
+    },
+    {
+      "id": 3,
+      "title": "The Quantum Path",
+      "author": "Sophia Lee",
+      "description": "A beginner-friendly journey through atoms, energy, and the science behind modern physics.",
+      "category": "Science",
+      "availableQuantity": 6,
+      "imageUrl": "https://i.ibb.co.com/bjhHkwHm/image5.png"
+    },
+    {
+      "id": 4,
+      "title": "Stories Under the Moon",
+      "author": "Ava Richardson",
+      "description": "A beautiful collection of short stories about hope, friendship, and adventure.",
+      "category": "Story",
+      "availableQuantity": 10,
+      "imageUrl": "https://i.ibb.co.com/7N4WRjwx/image2.png"
+    },
+    {
+      "id": 5,
+      "title": "Clean Code for Web Developers",
+      "author": "Michael Brown",
+      "description": "Learn how to write clean, readable, and maintainable code for real-world web projects.",
+      "category": "Tech",
+      "availableQuantity": 4,
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=900&auto=format&fit=crop"
+    },
+    {
+      "id": 6,
+      "title": "Ocean of Cells",
+      "author": "Dr. Liam Nelson",
+      "description": "Explore the hidden world of biology, cells, and life systems in a simple way.",
+      "category": "Science",
+      "availableQuantity": 7,
+      "imageUrl": "https://i.ibb.co.com/zvn7sdw/image.png"
+    },
+    {
+      "id": 7,
+      "title": "The Lost Kingdom",
+      "author": "Nora Hill",
+      "description": "An exciting fictional tale of courage, loyalty, and a kingdom waiting to be found.",
+      "category": "Story",
+      "availableQuantity": 9,
+      "imageUrl": "https://i.ibb.co.com/SDQ1x9M9/image3.png"
+    },
+    {
+      "id": 8,
+      "title": "JavaScript Beyond Basics",
+      "author": "Ryan Cooper",
+      "description": "Deepen your JavaScript knowledge with concepts like async programming, modules, and APIs.",
+      "category": "Tech",
+      "availableQuantity": 3,
+      "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=900&auto=format&fit=crop"
+    },
+    {
+      "id": 9,
+      "title": "Space and Stars",
+      "author": "Olivia Martin",
+      "description": "A simple science book about stars, planets, galaxies, and the future of space travel.",
+      "category": "Science",
+      "availableQuantity": 11,
+      "imageUrl": "https://i.ibb.co.com/wNbNTZ5F/image4.png"
+    },
+    {
+      "id": 10,
+      "title": "React Design Patterns",
+      "author": "Ethan Wilson",
+      "description": "Understand reusable UI patterns and component thinking for building scalable React apps.",
+      "category": "Tech",
+      "availableQuantity": 6,
+      "imageUrl": "https://i.ibb.co.com/99tx5k78/image1.png"
+    },
+    {
+      "id": 11,
+      "title": "The Rainy Day Letter",
+      "author": "Mia Adams",
+      "description": "A heartfelt story about memories, family, and a letter that changes everything.",
+      "category": "Story",
+      "availableQuantity": 12,
+      "imageUrl": "https://i.ibb.co.com/7N4WRjwx/image2.png"
+    },
+    {
+      "id": 12,
+      "title": "The Human Brain Explained",
+      "author": "Dr. Noah Scott",
+      "description": "A clear and engaging explanation of the brain, memory, learning, and human behavior.",
+      "category": "Science",
+      "availableQuantity": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?q=80&w=900&auto=format&fit=crop"
+    }
+  ]
