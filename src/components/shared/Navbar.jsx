@@ -60,7 +60,7 @@ export default function Navbar() {
             <span className="loading loading-spinner loading-sm" />
           ) : session?.user ? (
             <>
-              <span className="hidden text-sm font-semibold text-slate-700 md:inline">{session.user.name}</span>
+              <span className="hidden text-sm font-semibold text-slate-700 md:inline">{session.user.image}</span>
               <button onClick={handleLogout} className="btn btn-sm bg-slate-900 text-white hover:bg-slate-800">Logout</button>
             </>
           ) : (

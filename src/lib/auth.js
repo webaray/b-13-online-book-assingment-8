@@ -6,9 +6,12 @@ const client = new MongoClient(process.env.MONGODB_URI);
 const db = client.db("Bookonline");
 
 export const auth = betterAuth({
-  baseURL: process.env.BETTER_AUTH_URL || "http://localhost:3000",
+  baseURL: process.env.BETTER_AUTH_URL,
 
-  trustedOrigins: ["http://localhost:3000"],
+  trustedOrigins: [
+    "http://localhost:3000",
+    "https://b-13-online-book-assingment-8.vercel.app",
+  ],
 
   database: mongodbAdapter(db, {
     client,

@@ -6,9 +6,9 @@ import { getBookById } from '@/lib/books';
 export default function SingleBookPage({ params }) {
   const book = getBookById(params.id);
 
-  // if (!book) {
-  //   notFound();
-  // }
+  if (!book) {
+    notFound();
+  }
 
   return (
     <PrivateRoute>
